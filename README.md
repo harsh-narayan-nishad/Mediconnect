@@ -54,7 +54,10 @@ The project is developed following the SDLC methodology:
 
 ### Prerequisites  
 - Node.js  
-- MongoDB  
+- MongoDB
+- React
+- Express Js
+- HTML/Tailwind-CSS  
 - Postman (for API testing)  
 
 ### Installation  
