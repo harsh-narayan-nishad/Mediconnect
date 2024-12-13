@@ -24,7 +24,7 @@
 The project is developed following the SDLC methodology:  
 
 1. **Requirements Gathering**  
-   - Defined user needs and technical requirements through stakeholder discussions.  
+   - Defined user needs and technical requirements through team discussions.  
 
 2. **Design**  
    - Crafted wireframes and prototypes for seamless user flow and intuitive UI/UX.  
